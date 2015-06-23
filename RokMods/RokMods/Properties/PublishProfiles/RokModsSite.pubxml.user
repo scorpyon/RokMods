@@ -7,7 +7,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
   <PropertyGroup>
     <TimeStampOfAssociatedLegacyPublishXmlFile />
     <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAgGhbnH7anku42nMov7YvmgAAAAACAAAAAAAQZgAAAAEAACAAAABrO5DS5BHq466nU2THgWlHqxSdMP8Ysg5tT2nJ9J95/QAAAAAOgAAAAAIAACAAAAD5OuurvdeP5p6Sz8bYy+/lPmUk9uj+4K4BKeTO0JTppyAAAABheJjJRFxNC+Mll6YIYW7yhyRmQeDlvkytCm1huOzzo0AAAABCYORtH9qVtViBC6ieHGUo2tkJyKr805psW4D+L+XBBnobkwfXbYddC+zJwIiI6AAVEm86nhIIjyMic+xDYxtZ</EncryptedPassword>
-    <_PublishTargetUrl>ftp://arqubus.com/rokmods</_PublishTargetUrl>
+    <_PublishTargetUrl>ftp://tropaeolum.arvixe.com/dannyjeffery.com/rokmods</_PublishTargetUrl>
   </PropertyGroup>
   <ItemGroup>
     <File Include="bin/Antlr3.Runtime.dll">
